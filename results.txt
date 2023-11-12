@@ -1,8 +1,8 @@
-Czas obliczenia silni dla wartoœci 1 wynosi 0.0s.
-Czas obliczenia silni dla wartoœci 9 wynosi 0.0s.
-Czas obliczenia silni dla wartoœci 27 wynosi 0.0s.
-Czas obliczenia silni dla wartoœci 88 wynosi 0.0s.
-Czas obliczenia silni dla wartoœci 175 wynosi 0.0s.
-Czas obliczenia silni dla wartoœci 299 wynosi 0.0s.
-Czas obliczenia silni dla wartoœci 512 wynosi 0.0s.
-Czas obliczenia silni dla wartoœci 1024 wynosi 0.0s.
+Czas obliczenia silni dla wartoœci 1 wynosi 0.0000020000152289867401123s.
+Czas obliczenia silni dla wartoœci 9 wynosi 0.0000016996636986732482910s.
+Czas obliczenia silni dla wartoœci 27 wynosi 0.0000024000182747840881348s.
+Czas obliczenia silni dla wartoœci 88 wynosi 0.0000054999254643917083740s.
+Czas obliczenia silni dla wartoœci 175 wynosi 0.0000128000974655151367188s.
+Czas obliczenia silni dla wartoœci 299 wynosi 0.0000265003181993961334229s.
+Czas obliczenia silni dla wartoœci 512 wynosi 0.0000676000490784645080566s.
+Czas obliczenia silni dla wartoœci 1024 wynosi 0.0002776999026536941528320s.
